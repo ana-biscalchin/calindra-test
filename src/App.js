@@ -1,9 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { createBrowserHistory } from 'history';
+import { Router } from 'react-router-dom';
+import Routes from './Routes';
 
-function App() {
-  return <div className="App"></div>;
-}
+const browserHistory = createBrowserHistory();
+
+const App = () => (
+  <Router history={browserHistory}>
+    <Routes />
+  </Router>
+);
 
 export default App;
