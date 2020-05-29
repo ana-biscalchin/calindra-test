@@ -15,6 +15,7 @@ O projeto foi desenvolvido com a tecnologia [Create React App](https://github.co
 O framework de estilo utilizado foi [Material-ui](https://material-ui.com/);
 Hospedado usando [Heroku](www.heroku.com), no seguinte endereço: [https://teste-ovofrito-deploy.herokuapp.com/](https://teste-ovofrito-deploy.herokuapp.com/);
 
+![teste_imagem do site](https://user-images.githubusercontent.com/46823136/83293030-81ffb380-a1c1-11ea-8738-3af2c1afbf62.gif)
 
 
 ## Rodando localmente
