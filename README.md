@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Teste Calindra
 
-## Available Scripts
+### Objetivo
+Construir uma aplicação na linguagem que preferir e achar mais prático. Neste desafio não
+é preciso desenvolver um layout robusto, pode ser algo simples. A aplicação deverá ter um input de
+texto e um botão busca que ao ser clicado realizará uma busca de produto através do consumo da
+mesma api usada pelo autocomplete do site https://store.omelete.com.br . Você deverá analisar a
+resposta da API e construir uma view com a lista dos produtos retornados.
 
-In the project directory, you can run:
+### Resultado
 
-### `yarn start`
+A linguagem escolhida foi JavaScript com Node.js;
+Para contornar a solicitação de Cors na API da Omelete Store, foi utilizada a solução [CORS-anywhere](https://cors-anywhere.herokuapp.com/);
+O projeto foi desenvolvido com a tecnologia [Create React App](https://github.com/facebook/create-react-app). 
+O framework de estilo utilizado foi [Material-ui](https://material-ui.com/);
+Hospedado usando [Heroku](www.heroku.com), no seguinte endereço: [https://teste-ovofrito-deploy.herokuapp.com/](https://teste-ovofrito-deploy.herokuapp.com/);
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+## Rodando localmente
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Baixe ou clone este repositório e siga as instruções: 
 
-### `yarn build`
+Instale as depedências com o comando:
+#### `yarn`
+Na pasta do projeto, execute o comando: 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### `yarn start`
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Rode a aplicação em modo local .<br />
+abrindo [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
