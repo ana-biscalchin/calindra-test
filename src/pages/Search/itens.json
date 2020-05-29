@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "map": {
+        "defaultPrice": [
+          39.9
+        ],
+        "images.url": [
+          "store/images/391/14391.jpg",
+          "store/images/392/14392.jpg",
+          "store/images/390/14390.jpg"
+        ],
+        "images.id": [
+          13669,
+          13670,
+          13668
+        ],
+        "salePrice": [
+          39.9
+        ],
+        "name": [
+          "Poster - Thor: Ragnarok - Hulk"
+        ],
+        "images.type": [
+          "GG",
+          "SZ",
+          "S"
+        ],
+        "id": [
+          4318
+        ],
+        "images.position": [
+          20,
+          30,
+          10
+        ],
+        "uri": [
+          "/seu-ambiente/para-decorar/posteres/thor-ragnarok-hulk"
+        ]
+      },
+      "empty": false
+    },
+    {
+      "map": {
+        "defaultPrice": [
+          213.7
+        ],
+        "images.url": [
+          "store/images/490/14490.jpg",
+          "store/images/491/14491.jpg",
+          "store/images/492/14492.jpg"
+        ],
+        "images.id": [
+          13768,
+          13769,
+          13770
+        ],
+        "salePrice": [
+          149.59
+        ],
+        "name": [
+          "Especial Hulk"
+        ],
+        "images.type": [
+          "S",
+          "GG",
+          "SZ"
+        ],
+        "id": [
+          4366
+        ],
+        "images.position": [
+          10,
+          20,
+          30
+        ],
+        "uri": [
+          "/obox/edicoes-especiais/especial-hulk-volume-1"
+        ]
+      },
+      "empty": false
+    },
+    {
+      "map": {
+        "defaultPrice": [
+          49.9
+        ],
+        "images.url": [
+          "store/images/84/19084.jpg",
+          "store/images/82/19082.jpg",
+          "store/images/80/19080.jpg"
+        ],
+        "images.id": [
+          14319,
+          14318,
+          14317
+        ],
+        "salePrice": [
+          49.9
+        ],
+        "name": [
+          "Camiseta Hulk Rage"
+        ],
+        "images.type": [
+          "SZ",
+          "GG",
+          "S"
+        ],
+        "id": [
+          3706
+        ],
+        "images.position": [
+          30,
+          20,
+          10
+        ]
+      },
+      "empty": false
+    },
+    {
+      "map": {
+        "defaultPrice": [
+          94
+        ],
+        "images.url": [
+          "store/images/349/14349.jpg",
+          "store/images/350/14350.jpg",
+          "store/images/348/14348.jpg"
+        ],
+        "images.id": [
+          13627,
+          13628,
+          13626
+        ],
+        "salePrice": [
+          94
+        ],
+        "name": [
+          "Mini Busto - Hulk"
+        ],
+        "images.type": [
+          "GG",
+          "SZ",
+          "S"
+        ],
+        "id": [
+          3691
+        ],
+        "images.position": [
+          20,
+          30,
+          10
+        ],
+        "uri": [
+          "/sua-colecao/para-expor/bustos/hulk"
+        ]
+      },
+      "empty": false
+    }
+  ],
+  "inputPhrase": "hulk"
+}
